@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hola 👋 soy Yael
 
-<!--
-**yaelmolinero/yaelmolinero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Static Badge](https://img.shields.io/badge/Twitter-%40yaelmolineroo-1DA1F2?style=flat-square&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/yaelmolineroo)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-yaelmolinero-0E76E8?style=flat-square&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yaelmolinero/)
+[![Static Badge](https://img.shields.io/badge/Notion-%40y.molinero-white?style=flat-square&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/@ymolinero)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 Sobre mi
+Soy un estudiante en desarrollo web full stack. Actualmente me encuentro aprendiendo JavaScript, Node.js, React, PostgreSQL y Git.
+Inicie mi camino aprendiendo Python aplicandolo en diferentes areas hasta que probando el desarrollo web usando Flask atrapo mi interes.
+
+Personalmente me considero una persona ordenada, me gusta seguir buenas practicas y mantener mi codigo limpio. En mis tiempos libres entreno caliestenia, leo y me gusta mantenerme actualizado en las tecnologias que uso.
+
+Si quieres mejorar tu productividad puedes visitar mi [perfil de creador](https://www.notion.so/@ymolinero) en Notion.
+
+<br>
+
+## 👨‍💻 Skills
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,javascript,nodejs,react,tailwind,postgresql,sqlite,postman,git,github,bash,vscode,notion)](https://skillicons.dev)
+
+<br>
+
+## 🙋‍♂️ Contacto
+<!--[![Static Badge](https://img.shields.io/badge/Twitter-%40yaelmolinoeroo-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/yaelmolineroo)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-yaelmolinoero-0E76E8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/yaelmolinero/)
+[![Static Badge](https://img.shields.io/badge/Notion-%40y.molinero-white?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)](https://www.notion.so/@ymolinero) -->
+
+[![Static Badge](https://img.shields.io/badge/Email-y.molinero20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:y.molinero20@gmail.com)
