@@ -7,17 +7,17 @@
 <br>
 
 ## 📖 Sobre mi
-Soy un estudiante en desarrollo web Full Stack. Actualmente me encuentro aprendiendo JavaScript, Node.js, React, PostgreSQL y Git.
+Soy un estudiante en desarrollo web Full Stack. Actualmente me encuentro aprendiendo JavaScript, Node.js, React y PostgreSQL.
 Inicie mi camino aprendiendo Python aplicándolo en diferentes áreas hasta que probando el desarrollo web usando Flask atrapo mi interés.
 
 Personalmente me considero una persona ordenada, me gusta seguir buenas prácticas y mantener mi código limpio. En mis tiempos libres entreno calistenia, leo y me gusta mantenerme actualizado en las tecnologías que uso.
 
-Si quieres mejorar tu productividad puedes visitar mi [perfil de creador](https://www.notion.so/@ymolinero) en Notion.
+<!-- Si quieres mejorar tu productividad puedes visitar mi [perfil de creador](https://www.notion.so/@ymolinero) en Notion. -->
 
 <br>
 
 ## 👨‍💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,javascript,nodejs,react,tailwind,postgresql,sqlite,postman,git,github,bash,vscode,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,express,postgresql,python,java,react,tailwind,astro,html,css,bash,git,github,vscode,notion)](https://skillicons.dev)
 
 <br>
 
